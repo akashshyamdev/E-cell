@@ -214,7 +214,8 @@ h3 {
   gap: 10px;
 }
 
-.hero-meta-item svg {
+.hero-meta-item svg,
+.hero-meta-item img {
   width: 20px;
   height: 20px;
   color: var(--purple);
@@ -274,7 +275,7 @@ h3 {
 .hero-art {
   position: relative;
   width: 100%;
-  aspect-ratio: 1 / 1;
+  /* aspect-ratio: 1 / 1; */
 }
 
 /* ---------- Section shell ---------- */
