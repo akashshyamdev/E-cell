@@ -1,6 +1,9 @@
 # Scale '26 — E-Cell BITS Hyderabad Landing Page
 
 I've made a landing page using HTML, CSS and JavaScript for a fictional E-Cell event called Scale.
+I've deployed it using Github pages - view it live [here](https://akashshyamdev.github.io/e-cell-task/).
+
+I chose not to use React since there isn't much dynamic functionality required, the page is largely static.
 
 ## Structure
 
